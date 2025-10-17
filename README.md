@@ -18,6 +18,8 @@
 - :thinking: I’m currently open for a new `job opportunity`.
 <br>
 
+<hr>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -29,6 +31,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,ts,py,php,react,mongodb,mysql,nextjs,express,nodejs,linux,nginx,md,docker,figma,git,github,vscode,androidstudio,postman,discord,&perline=14" />
   </a>
 </p>
+
+<hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -42,6 +46,8 @@
       </div>
 
 </p>
+
+<hr>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
